@@ -1,0 +1,33 @@
+--CREATE TABLE EmployeeDemographics
+--(EmployeeID int,
+--FirstName varchar (50),
+--LastName varchar (50),
+--Age int,
+--Gender varchar(50)
+--)
+
+--CREATE TABLE EmployeeSalary
+--(EmpolyeeID int,
+--Jobtitle varchar(50),
+--Salary int)
+
+--INSERT INTO EmployeeDemographics VALUES
+--(1002, 'Natasha', 'Karmel', 28, 'Female'),
+--(1003, 'Binny', 'Pamela', 39, 'Female'),
+--(1004, 'Nathan', 'Delrio', 29, 'Male'),
+--(1005, 'Dwayne', 'Johnson', 31, 'Male'),
+--(1006, 'David', 'Fernandes', 27, 'Male'),
+--(1007, 'Cody', 'Rhodes', 30, 'Male'),
+--(1008, 'Faisan', 'Mohammad', 30, 'Male'),
+--(1009, 'Mahendra Singh', 'Dhoni', 40, 'Male');
+
+--Insert Into EmployeeSalary VALUES
+--(1001, 'Sales Executive', 36000),
+--(1002, 'Regional Manager', 70000),
+--(1003, 'Finance Analyst', 45000),
+--(1004, 'Business Analyst', 40000),
+--(1005, 'Fullstack Developer', 108000),
+--(1006, 'Data Engineer', 150000),
+--(1007, 'Content Creator', 48000),
+--(1008, 'Technician', 28000),
+--(1009, 'CEO', 1000000);
